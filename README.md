@@ -6,7 +6,26 @@ Algunos detalles sobre mi:
 - 🤖 Actualmente estoy aprendiendo sobre Deep Learning y sus aplicaciones.  
 - 📊 Me gusta crear visualizaciones, ya sea con datos reales o con objetos matemáticos.  
 
+---
 
+## Repositorios 
+
+<div>
+<a src = "https://github.com/anuraghazra/github-readme-stats">
+  <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=Data-projects&theme=apprentice"/> 
+</a>
+<a src = "https://github.com/anuraghazra/github-readme-stats">
+  <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=box-counting-fractal-dimension&theme=apprentice"/> 
+</a>
+
+<a src = "https://github.com/anuraghazra/github-readme-stats">
+  <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=Simple-Robot-Trading&theme=apprentice"/> 
+</a>
+
+
+
+
+</div>
 ---
 
 ## 📊 GitHub Stats:
