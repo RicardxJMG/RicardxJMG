@@ -11,14 +11,14 @@ Algunos detalles sobre mi:
 ## Repositorios 
 
 <div>
-<a src = "https://github.com/anuraghazra/github-readme-stats">
+<a href = "https://github.com/RicardxJMG/Data-projects">
   <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=Data-projects&theme=apprentice"/> 
 </a>
-<a src = "https://github.com/anuraghazra/github-readme-stats">
+<a href = "https://github.com/RicardxJMG/box-counting-fractal-dimension">
   <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=box-counting-fractal-dimension&theme=apprentice"/> 
 </a>
 
-<a src = "https://github.com/anuraghazra/github-readme-stats">
+<a href = "https://github.com/RicardxJMG/Simple-Robot-Trading">
   <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=Simple-Robot-Trading&theme=apprentice"/> 
 </a>
 
