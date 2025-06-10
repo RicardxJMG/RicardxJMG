@@ -1,16 +1,15 @@
-## Hi there 👋
+## ¡Hola! Soy Ricardo
 
-<!--
-**RicardxJMG/RicardxJMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+De México 🇲🇽. Egresé de la licenciatura en Física y Matemáticas.
+Me interesa explorar cómo los datos pueden ayudarnos a entender problemas reales y proponer soluciones más informadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algunos gustos e intereses
+
+- Trabajar con datos (limpiarlos, analizarlos y visualizarlos)
+- Aprender sobre machine learningm deep learning e AI
+- Seguir mejorando como programador
+
+---
+
