@@ -1,4 +1,6 @@
-## ¡Hi! I'm Ricardo
+## ¡Hola! Mi nombre es Ricardo
+
+Algunos detalles sobre mi:
 
 - 📐 Estudié matemáticas, pero disfruto mucho programar y trabajar con datos.  
 - 🤖 Actualmente estoy aprendiendo sobre Deep Learning y sus aplicaciones.  
