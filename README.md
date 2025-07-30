@@ -21,11 +21,8 @@ Algunos detalles sobre mi:
 <a href = "https://github.com/RicardxJMG/Simple-Robot-Trading">
   <img alig = "left" width = "400px" height = "200px"  src = "https://github-readme-stats.vercel.app/api/pin/?username=RicardxJMG&repo=Simple-Robot-Trading&theme=apprentice"/> 
 </a>
-
-
-
-
 </div>
+
 ---
 
 ## 📊 GitHub Stats:
@@ -44,18 +41,18 @@ Algunos detalles sobre mi:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style)
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricardo-javier-mart%C3%ADnez-garcia-8558042b7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricardojmartinezgarcia@gmail.com) 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-mart%C3%ADnez-fismat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricardojmartinezgarcia@gmail.com) 
 
 
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=RicardxJMG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/stLgiOylM-gAAAAd/goodbye-genshin-impact.gif" height="255">
+</p>
