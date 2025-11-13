@@ -1,14 +1,12 @@
-## ¡Hola! Mi nombre es Ricardo
+## Hi!!!
 
-Algunos detalles sobre mi:
-
--  Estudié matemáticas, pero disfruto mucho programar y trabajar con datos.  
--  Actualmente estoy aprendiendo sobre Deep Learning y LLM's 
--  Me gusta crear visualizaciones, ya sea con datos reales o con objetos matemáticos.  
+<p align = 'center'>
+  <img src = "https://tenor.com/es-419/view/happy-waving-smiley-face-gif-5296731673110042908.gif" height = 355>
+</p>
 
 ---
 
-## Repositorios 
+## Some Repositorios 
 
 <div>
 <a href = "https://github.com/RicardxJMG/Data-projects">
@@ -25,14 +23,14 @@ Algunos detalles sobre mi:
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <div>
   <img alig = "left" width = "420px" height = "210px"  src = "https://github-readme-stats.vercel.app/api?username=RicardxJMG&show_icons=true&theme=apprentice"/> 
   <img alig = "right" width = "420px" height = "200px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardxJMG&layout=compact&theme=apprentice" />
 </div>
 
 
-## 💻 Tech Stack:
+## Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
@@ -45,15 +43,11 @@ Algunos detalles sobre mi:
 
 
 
-## 🌐 Socials:
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-mart%C3%ADnez-fismat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricardojmartinezgarcia@gmail.com) 
 
-
-
----
-
+<!---
 [![](https://visitcount.itsvg.in/api?id=RicardxJMG&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://media1.tenor.com/m/stLgiOylM-gAAAAd/goodbye-genshin-impact.gif" height="255">
-</p>
+</p> --> 
