@@ -6,7 +6,7 @@
 
 ---
 
-## Some Repositorios 
+## Some Repositories
 
 <div>
 <a href = "https://github.com/RicardxJMG/Data-projects">
